@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Boas vindas ao meu perfil 
+
 Meu nome é Tainá Mota
-Estou estudando na Alura
-Estou me desenvolvendo na linguagem JavaScript
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+- Estou estudando na Alura
+
+- Estou me desenvolvendo na linguagem JavaScript
+
+-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
